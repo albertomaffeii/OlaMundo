@@ -1,2 +1,3 @@
-# OlaMundo
- primeiro repositorio da minha vida
+# Olá, Mundo!
+ Primeiro repositorio da minha vida.
+ Versão 2
